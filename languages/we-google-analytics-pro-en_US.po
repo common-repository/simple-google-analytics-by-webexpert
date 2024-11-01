@@ -1,0 +1,94 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Webexpert-1.0.0\n"
+"POT-Creation-Date: 2015-10-05 18:59+0530\n"
+"PO-Revision-Date: 2015-10-05 19:00+0530\n"
+"Last-Translator: Webexpert <admin@webexpert.com>\n"
+"Language-Team: Webexpert <admin@webexpert.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: we-google_analytics_pro\n"
+
+#: we-google_analytics_pro/admin/class-we-google-analytics-pro-settings-we_google_analytics_pro_general.php:105
+msgid "Google Analytics Settings"
+msgstr ""
+
+#: we-google_analytics_pro/admin/class-we-google-analytics-pro-settings-we_google_analytics_pro_general.php:107
+msgid "Enable"
+msgstr ""
+
+#: we-google_analytics_pro/admin/class-we-google-analytics-pro-settings-we_google_analytics_pro_general.php:108
+msgid "GA Tracking Code"
+msgstr ""
+
+#: we-google_analytics_pro/admin/class-we-google-analytics-pro-settings-we_google_analytics_pro_general.php:109
+msgid "Enter your GA Tracking Code here."
+msgstr ""
+
+#: we-google_analytics_pro/admin/class-we-google-analytics-pro-settings-we_google_analytics_pro_general.php:109
+msgid "This is GA Tracking Code you will find in your GA Account."
+msgstr ""
+
+#: we-google_analytics_pro/admin/class-we-google-analytics-pro-settings-we_google_analytics_pro_general.php:111
+msgid "Choose categories Excluded from GA"
+msgstr ""
+
+#: we-google_analytics_pro/admin/class-we-google-analytics-pro-settings-we_google_analytics_pro_general.php:111
+msgid "select the category will be excluded from the GA tracking"
+msgstr ""
+
+#: we-google_analytics_pro/admin/class-we-google-analytics-pro-settings-we_google_analytics_pro_general.php:111
+msgid "select the category will be excluded from the GA tracking."
+msgstr ""
+
+#: we-google_analytics_pro/admin/class-we-google-analytics-pro-settings-we_google_analytics_pro_general.php:113
+msgid "Choose pages Excluded from GA"
+msgstr ""
+
+#: we-google_analytics_pro/admin/class-we-google-analytics-pro-settings-we_google_analytics_pro_general.php:113
+msgid "select the pages will be excluded from the GA tracking"
+msgstr ""
+
+#: we-google_analytics_pro/admin/class-we-google-analytics-pro-settings-we_google_analytics_pro_general.php:113
+msgid "select the pages will be excluded from the GA tracking."
+msgstr ""
+
+#: we-google_analytics_pro/admin/class-we-google-analytics-pro-settings-we_google_analytics_pro_general.php:115
+msgid "Choose posts Excluded from GA"
+msgstr ""
+
+#: we-google_analytics_pro/admin/class-we-google-analytics-pro-settings-we_google_analytics_pro_general.php:115
+msgid "select the posts will be excluded from the GA tracking"
+msgstr ""
+
+#: we-google_analytics_pro/admin/class-we-google-analytics-pro-settings-we_google_analytics_pro_general.php:115
+msgid "select the posts will be excluded from the GA tracking."
+msgstr ""
+
+#: we-google_analytics_pro/admin/class-we-google-analytics-pro-settings-we_google_analytics_pro_general.php:148
+msgid "Settings updated"
+msgstr ""
+
+#: we-google_analytics_pro/admin/class-we-google-analytics-pro-settings-we_google_analytics_pro_general.php:159
+msgid "Enter your settings below"
+msgstr ""
+
+#: we-google_analytics_pro/admin/class-we-google-analytics-pro-settings.php:26
+msgid "Google Analytics Pro Settings"
+msgstr ""
+
+#: we-google_analytics_pro/admin/class-we-google-analytics-pro-settings.php:27
+msgid "Analytics Settings"
+msgstr ""
+
+#: we-google_analytics_pro/admin/class-we-google-analytics-pro-settings.php:40
+msgid "Google Analytics Pro General"
+msgstr ""
+
+#~ msgid "ID Number"
+#~ msgstr "Identification"
